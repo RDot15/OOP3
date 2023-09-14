@@ -35,7 +35,7 @@ this.maxTry = maxTry;
 this.word = generateWord();
 gameStatus = GameStatus.START;
         System.out.println("Подсказка  " + word);
-
+String help;
     }
 
     @Override
